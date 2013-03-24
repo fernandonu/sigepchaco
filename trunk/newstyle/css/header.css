@@ -1,0 +1,50 @@
+.main-header {
+	height: 81px;
+	padding-top: 10px;
+}
+
+.main-header p, h1{
+	margin: 0px;
+	color: #666666;
+}
+
+.main-header .logos{
+	padding-left: 10px;
+	width: 300px;
+	float: left;
+}
+
+.logos img {
+	vertical-align: bottom;
+	margin-right: 10px;
+}
+
+.main-header .title{
+	height: 71px;
+	border-left: solid 1px #dddddd;
+	padding-left: 10px;
+	float: left;
+}
+
+.main-header .title h1{
+	font-size: 24px;
+	margin-bottom: -7px;
+	margin-top: 5px;
+}
+
+.main-header .title p{
+	font-size: 12px;
+	margin-bottom: -5px;
+}
+
+.main-header .user-info {
+	padding-top: 16px;
+	padding-right: 10px;
+}
+
+.main-header .user-info p, a {
+	vertical-align: bottom;
+	font-size: 12px;
+	margin-bottom: -2px;
+	text-align: right;
+}

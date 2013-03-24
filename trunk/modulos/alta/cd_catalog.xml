@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+
+<rows>
+       <page>1</page>
+       <total>1</total>
+       <records>7</records>
+
+	<row>
+		<cell>Empire Burlesque</cell>
+		<cell>Bob Dylan</cell>
+		<cell>USA</cell>
+		<cell>Columbia</cell>
+		<cell>10.90</cell>
+		<cell>1985</cell>
+	</row>
+	<row>
+		<cell>Hide your heart</cell>
+		<cell>Bonnie Tyler</cell>
+		<cell>UK</cell>
+		<cell>CBS Records</cell>
+		<cell>9.90</cell>
+		<cell>1988</cell>
+	</row>
+	<row>
+		<cell>Greatest Hits</cell>
+		<cell>Dolly Parton</cell>
+		<cell>USA</cell>
+		<cell>RCA</cell>
+		<cell>9.90</cell>
+		<cell>1982</cell>
+	</row>
+	<row>
+		<cell>Still got the blues</cell>
+		<cell>Gary Moore</cell>
+		<cell>UK</cell>
+		<cell>Virgin records</cell>
+		<cell>10.20</cell>
+		<cell>1990</cell>
+	</row>
+	<row>
+		<cell>Eros</cell>
+		<cell>Eros Ramazzotti</cell>
+		<cell>EU</cell>
+		<cell>BMG</cell>
+		<cell>9.90</cell>
+		<cell>1997</cell>
+	</row>
+	<row>
+		<cell>One night only</cell>
+		<cell>Bee Gees</cell>
+		<cell>UK</cell>
+		<cell>Polydor</cell>
+		<cell>10.90</cell>
+		<cell>1998</cell>
+	</row>
+	<row>
+		<cell>Sylvias Mother</cell>
+		<cell>Dr.Hook</cell>
+		<cell>UK</cell>
+		<cell>CBS</cell>
+		<cell>8.10</cell>
+		<cell>1973</cell>
+	</row>
+
+</rows>
