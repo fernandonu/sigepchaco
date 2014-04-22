@@ -54,7 +54,7 @@ $db_type = 'postgres8';				// Tipo de base de datos.
 $db_host = 'localhost';		// Host para desarrollo.
 $db_user = 'projekt';				// Usuario.
 $db_password = 'propcp';			// Contraseña.
-$db_name = 'nacer';
+$db_name = 'sigepchaco';
 
 
 // IPs permitidas para conectarse al gestion, si el ip no esta aca, se envia un mail
